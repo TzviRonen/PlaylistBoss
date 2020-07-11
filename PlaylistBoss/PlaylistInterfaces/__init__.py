@@ -1,0 +1,4 @@
+from PlaylistInterfaces.PlaylistInterface import PlaylistInterface
+from PlaylistInterfaces.FilesPlaylistInterface import FilesPlaylistInterface
+from PlaylistInterfaces.SpotifyPlaylistInterface import SpotifyPlaylistInterface
+
